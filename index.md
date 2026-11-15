@@ -1,7 +1,7 @@
 # Privacy Policy for NULLWAKE
 **Effective Date:** November 2026
 
-Palia_Games ("we", "our", or "us") operates the VR game **NULLWAKE**. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you play our game.
+Palia_Games we operate the VR game **NULLWAKE**. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you play our game.
 
 ## Information We Collect
 To provide multiplayer, voice chat, and cloud progression, NULLWAKE accesses:
@@ -14,4 +14,4 @@ We use trusted game backend services to store your game data and connect lobbies
 - **Epic Online Services (EOS):** Connects multiplayer lobbies and voice chat.
 
 ## Data Deletion & Contact
-You can request the deletion of your game save data at any time by contacting us at: **your-email@example.com**
+You can request the deletion of your game save data at any time by contacting us at: **Palia_Games@gmx.com**
